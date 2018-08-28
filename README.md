@@ -1,2 +1,2 @@
-# IOS-Calculator
+# iOS-Calculator
 swift
